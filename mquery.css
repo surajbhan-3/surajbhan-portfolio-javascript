@@ -1,0 +1,776 @@
+
+
+
+@media all and (min-width:1600px) and (max-width:1921px){
+    .nav-link.home #menu-div{
+      /* border: 2px solid green; */
+    }
+
+    .nav-link.home{
+      width: 80px;
+      left: auto;
+    }
+
+      .left-sidebar{
+        height: 100%;
+        width: 320px;
+        
+      }
+      .profile-picture{
+        width: 280px;
+        height: 280px;
+        left: 18px;
+
+      }
+      .profile-name{
+        width: 310px;
+        /* background-color: green; */
+        margin-top: 10px;
+        margin-left: 30px;
+        height: 25px;
+        font-size: 20px;
+        
+
+      }
+
+      .social{
+        width: 280px;
+        left: 10px;
+      }
+.fstack{
+  width: 300px;
+  height: 20px;
+  font-size: 16px;
+  width: 320px;
+}
+
+      .age-info{
+        width: 280px;
+        left: 10px;
+        padding-bottom: 10px;
+        /* border:2px solid green; */
+        height: 120px;
+
+      }
+
+   .git-hub-repo{
+    width: 280px;
+    left: 10px;
+    padding-bottom: 10px;
+    top: 55vh;
+   }
+   .certs-list{
+      top: 70vh;
+     width: 280px;
+     left: 10px;
+     padding-bottom: 10px;
+
+
+   }
+
+   #menu-div{
+  
+    width: 80px;
+   }
+
+
+  #menu-div>div{
+      border: 3px solid #ec7009;
+      border-radius: 50%;
+      height: 4rem;
+      width: 4rem;
+      margin-top: 30px;
+      /* margin-left: 1.5vw; */
+      padding: auto;
+      margin-left: 10px;
+      background-color: #FFE6C7;
+      
+  }
+
+    #menu-div>div img{
+      width: 1.8rem;
+      height: 1.8rem;
+      margin-left: 5px;
+      margin-top: 5px;
+
+  }
+  
+
+
+   .nav-link.home #home-span{
+    left: 22px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #about-span{
+    left: 22px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #skill-span{
+    left:22px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #projects-span{
+    left: 18px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #contacts-span{
+    left: 18px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+
+  }
+
+
+     .nav-link.home #resume-span{
+    left: 18px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+    
+/*  */
+.skills-sec{
+
+   top:120vh
+}
+
+#skills{
+  top:174vh
+}
+.stat{
+  top:225vh;
+}
+
+.project{
+  top:265vh
+}
+
+.react-activity-calendar{
+
+   top:325vh
+}
+
+#contact{
+  top:395vh
+}
+
+
+
+.column.left .icons{
+  /* border: 1px solid goldenrod; */
+  width: 45%;
+
+  margin-top: 30px;
+  height: 30%;;
+}
+
+}
+
+
+
+
+
+
+
+@media all and (min-width:1280px) and (max-width:1365px){
+    .nav-link.home #menu-div{
+      /* border: 2px solid green; */
+    }
+
+    .profileWrapper{
+        height: 20vh;
+
+    }
+    .profile-picture{
+      width: 200px;
+      height: 200px;
+    }
+
+    .column.left .icons{
+      /* border: 1px solid goldenrod; */
+      width: 45%;
+    
+      margin-top: 30px;
+      height: 30%;;
+    }
+    .profile-name{
+
+       top:25vh;
+       left: 0vw;
+       width: 100%;
+    }
+
+    .fstack{
+      top: 29vh;
+      width: 240px;
+      height: 20px;
+      font-size: 15px;
+      padding: auto;
+    }
+
+    .social{
+
+      top: 34vh;
+      left: 0;
+      width: 240px;
+    }
+
+    .age-info{
+
+      top: 39vh;
+      left: 0;
+      width: 240px;
+    }
+
+    .git-hub-repo{
+
+      top: 58vh;
+      left: 0.5vw;
+      width: 240px;
+    }
+
+    .certs-list{
+      top: 75vh;
+      left: 0.5vw;
+      width: 240px;
+    }
+      
+  #menu-div>div{
+      border: 3px solid #ec7009;
+      border-radius: 50%;
+      height: 3rem;
+      width: 3rem;
+      margin-top: 30px;
+      .column.left .icons{
+        /* border: 1px solid goldenrod; */
+        width: 45%;
+      
+        margin-top: 30px;
+        height: 30%;;
+      }
+      /* margin-left: 1.5vw; */
+      padding: auto;
+      margin: 1rem;
+      background-color: #FFE6C7;
+      
+  }
+  .column.left .icons{
+    /* border: 1px solid goldenrod; */
+    width: 45%;
+  
+    margin-top: 30px;
+    height: 30%;;
+  }
+
+    #menu-div>div img{
+      width: 1.5rem;
+      height: 1.5rem;
+      margin-left: 0px;
+      margin-top: 0px;
+
+  }
+
+
+   .nav-link.home #home-span{
+    left: 1.8vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #about-span{
+    left: 1.8vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #skill-span{
+    left: 1.5vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #projects-span{
+    left: 1.2vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+     .nav-link.home #contacts-span{
+    left: 1.2vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+
+  }
+
+
+     .nav-link.home #resume-span{
+    left: 1.2vw;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -1vh;
+  
+  }
+
+  .skills-sec{
+    top: 110vh;
+  }
+
+
+  #skills{
+    top: 165vh;
+  }
+
+  .stat{
+
+     top: 215vh;
+  }
+
+  .project{
+    top: 260vh;
+  }
+
+  .react-activity-calendar{
+    top: 325vh;
+  }
+
+  #contact{
+    top: 400vh;
+  }
+
+
+
+  .column.left .icons{
+    /* border: 1px solid goldenrod; */
+    width: 45%;
+
+    margin-top: 30px;
+    height: 30%;;
+  }
+
+    
+}
+
+
+
+
+@media all and (min-width:300px) and (max-width:1000px){
+
+
+.left-sidebar{
+  display: none;
+
+}
+
+.nav-link.home{
+
+   position: absolute;
+   width: 100vw;
+   height: auto;
+   left: 0vw;
+   background-color: green;
+   max-width: 100vw;
+}
+
+
+/* nav{
+  border: 12px solid red;
+  width: 100%;
+} */
+#menu-div{
+  position:absolute;
+  top: -10vh;
+  left: 0vw;
+  width: 100vw;
+  border-radius: 0px 0px 12px 12px;
+  height: 40px;
+  max-width: 100vw;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#menu-div>div{
+  margin: 0%;
+  border: 2px solid #ec7009;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  /* height: 2rem;
+  width: 2rem; */
+  background-color: #FFE6C7;
+
+}
+
+
+
+ 
+#menu-div>.home-img,.about-img,.skills-img,.projects-img,.work-img,.contact-img,#resume-button-1{
+  margin-top:  10px;
+}
+#menu-div>.home-img img{
+
+  position: relative;
+  left: 10px;
+  
+}
+
+#menu-div>.home-img:hover{
+  content: normal;
+  background-color: #ec7009;
+}
+
+#menu-div>.about-img img{
+  
+  position: relative;
+  left: 10px;
+
+}
+
+#menu-div>.skills-img img{
+  
+  position: relative;
+  left: 10px;
+
+}
+
+#menu-div>.projects-img img{
+  
+  position: relative;
+  left: 10px;
+
+}
+
+#menu-div>.contact-img img{
+  
+  position: relative;
+  left: 10px;
+
+}
+
+#menu-div>#resume-button-1 img{
+  
+  position: relative;
+  left: 10px;
+
+}
+
+
+.nav-link.home #home-span,#skill-span,#projects-span,#contacts-span,#about-span,#resume-span{
+
+   display: none;
+}
+
+
+.contact-content{
+
+  /* border: 12px solid red; */
+  /* background-color: #FFE6C7; */
+  display: flex;
+  justify-content: space-between;
+  height: 600px;
+  padding: 20px;
+  border: 12px;
+  border-radius: 12px;
+  flex-wrap: wrap;
+}
+
+.middle-portion-intro{
+
+  width: 100vw;
+  height: auto;
+  left: 0%;
+  top: 15vh;
+border-radius: 12px;
+background-color: #FFA559;
+
+  
+
+}
+.home-div{
+  padding: 0px;
+  display: block;
+  height: 100%;
+  border-radius: 12px;
+  margin: 5px;
+
+
+}
+.home-div>div+div{
+  height: 400px;
+}
+
+.profile-card{
+  width: 100%;
+  padding: 5px;
+  border: 0px;
+
+
+
+}
+
+
+
+.home-info{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+
+}
+.home-info>.p_name{
+  
+      /* border: 1px solid green;
+      width: 20vw;
+      font-size: 15px;
+      height: auto;
+      margin-bottom: 0%; */
+      display: none;
+
+
+}
+
+#fsd{
+  /* border: 2px solid chartreuse; */
+  font-size: 18px;
+  width: 50%;
+  margin: 0%;
+
+
+}
+.home-info>.fs{
+  /* border: 2px solid chartreuse; */
+  width: 60%;
+  height: auto;
+}
+.home-info> #resume-button-2{
+  margin-top: 0%;
+}
+
+
+.home-details{
+  width: 100%;
+
+  /* border: 2px solid blue; */
+}
+
+
+
+
+#about{
+ 
+  top: 85vh;
+  width: 100%;
+  left: 0%;
+  height: auto;
+ 
+
+}
+
+.about-content{
+  border: 2px solid green;
+
+  display: block;
+  justify-content: space-between;
+}
+.about-content>div{
+  width: 100%;
+}
+
+
+.skills-sec{
+  top:178vh ;
+  width: 100%;
+  left: 0%;
+}
+
+.skill-content{
+  border: 2px solid red;
+  display: block;
+ 
+
+}
+
+.skill-content > div{
+
+  border: 2px solid red;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+#skills{
+  top: 320vh;
+  width: 100%;
+  left: 0%;
+
+
+}
+
+.skill-content{
+  flex-wrap: wrap;
+}
+
+
+.stat{
+
+  top:450vh;
+  left: 0%;
+  width: 100%;
+
+}
+
+.skills-card{
+  width: auto;.contact-content{
+
+    /* border: 12px solid red; */
+    /* background-color: #FFE6C7; */
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    padding: 20px;
+    border: 12px;
+    border-radius: 12px;
+    flex-wrap: wrap;
+ }
+}
+
+.columnRight{
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: auto;
+}
+
+.columnLeft{
+   width: 100%;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: auto;
+}
+.skills-content{
+
+   display: block;
+   width: 100%;
+
+}
+.skills-content> div{
+  width: 100vw;
+
+
+}
+
+.s-content{
+  display: block;
+
+}.contact-content{
+
+  /* border: 12px solid red; */
+  /* background-color: #FFE6C7; */
+  display: flex;
+  justify-content: space-between;
+  height: 600px;
+  padding: 20px;
+  border: 12px;
+  border-radius: 12px;
+  flex-wrap: wrap;
+}
+.s-content > .card{
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+
+}
+
+
+
+
+.project{
+  top: 545vh;
+  left: 0%;
+  width: 100%;
+
+
+}
+
+.react-activity-calendar{
+
+  top: 665vh;
+  left: 0%;
+  width: 100%;
+
+
+}
+
+.regular{
+  width: 100%;
+  display: block;
+
+}
+.regular .git-card{
+  margin: auto;
+  padding: auto;
+  width: 100%;
+}
+
+
+
+#contact{
+  top: 800vh;
+  width: 100%;
+  left: 0%;
+  
+
+}
+
+.contact-content{
+
+  /* border: 12px solid red; */
+  /* background-color: #FFE6C7; */
+  display: flex;
+  justify-content: space-between;
+  height: 600px;
+  padding: 20px;
+  border: 12px;
+  border-radius: 12px;
+  flex-wrap: wrap;
+}
+
+}
+
+
